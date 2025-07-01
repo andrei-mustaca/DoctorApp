@@ -8,5 +8,5 @@
 	- Mapping
 - Infrastructure
 - API
-
+Так как папки пока пустые, папки в слое Application пока не видно
  

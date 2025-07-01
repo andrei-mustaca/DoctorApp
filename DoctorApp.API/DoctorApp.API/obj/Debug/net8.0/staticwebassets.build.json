@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BYMixMaVaSaaIzOTPzbfxXo7wHW79TNHp0/EIAkYL44=",
+  "Source": "DoctorApp.API",
+  "BasePath": "_content/DoctorApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -6,7 +6,6 @@ public class Doctor
     public string Name { get; set; }
     public string Telephone { get; set; }
     public string Photo { get; set; }
-    public int Experience { get; set; }
     public string ShortDescription { get; set; }
     public string FullDescription { get; set; }
     

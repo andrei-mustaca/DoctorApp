@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\bin\Release\net8.0\DoctorApp.Application.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\bin\Release\net8.0\DoctorApp.Application.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\bin\Release\net8.0\DoctorApp.Application.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\bin\Release\net8.0\DoctorApp.Domain.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\bin\Release\net8.0\DoctorApp.Domain.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.sourcelink.json
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorAp.579DD013.Up2Date
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\refint\DoctorApp.Application.dll
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\DoctorApp.Application.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Учебная практика 2 семестр\DoctorApp\DoctorApp.API\DoctorApp.Application\obj\Release\net8.0\ref\DoctorApp.Application.dll
